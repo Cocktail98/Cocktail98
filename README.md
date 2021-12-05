@@ -7,6 +7,7 @@ You can find me on:
 * [Twitter as @GuangchenJ](https://twitter.com/GuangchenJ)
 * [Facebook as @GuangchenJ](https://www.facebook.com/GuangchenJ)
 
+My Resume/CV:
 
 * [Resume](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf)
 
