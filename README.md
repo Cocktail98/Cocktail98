@@ -2,14 +2,14 @@
 
 You can find me on:
 
-* [GitHub as @Cocktial98 (you are here)](https://github.com/Cocktail98)
-* [LeetCode-cn as @姜广琛 ](https://leetcode-cn.com/u/jiang-guang-chen/)
-* [Twitter as @GuangchenJ](https://twitter.com/GuangchenJ)
-* [Facebook as @GuangchenJ](https://www.facebook.com/GuangchenJ)
+* GitHub as [@Cocktial98](https://github.com/Cocktail98) (you are here)
+* LeetCode-cn as [@姜广琛](https://leetcode-cn.com/u/jiang-guang-chen/)
+* Twitter as [@GuangchenJ](https://twitter.com/GuangchenJ)
+* Facebook as [@GuangchenJ](https://www.facebook.com/GuangchenJ)
 
 My Resume/CV:
 
-* [Resume](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf)
+* [zh_CN](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocktail98&layout=compact)](https://github.com/Cocktail98)
 
