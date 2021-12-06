@@ -10,6 +10,7 @@ You can find me on:
 My Resume/CV:
 
 * [zh_CN](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf)
+* [en-US]() *(To be added)*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuangchenJ&layout=compact)](https://github.com/GuangchenJ)
 
