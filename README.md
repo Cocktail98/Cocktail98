@@ -15,10 +15,10 @@
 <!-- My website:  -->
 <!-- * to be added -->
 
-**Address**: *School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC*
+<!-- **Address**: *School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC* -->
 
-**Contact**: 
-* **Email**: <guangchen@mail.ynu.edu.cn>, <guangchen98.jiang@gmail.com>
+<!-- **Contact**:  -->
+<!-- * **Email**: <guangchen@mail.ynu.edu.cn>, <guangchen98.jiang@gmail.com> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuangchenJ&layout=compact)](https://github.com/GuangchenJ)
