@@ -1,4 +1,4 @@
-### Hi I'm [@GuangchenJiang](https://github.com/GuangchenJ) 👋
+### Hi I'm [@Guangchen Jiang](https://github.com/GuangchenJ) 👋
 
 You can find me on:
 
