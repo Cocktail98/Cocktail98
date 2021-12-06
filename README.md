@@ -5,6 +5,7 @@
 * GitHub as [@GuangchenJ](https://github.com/GuangchenJ) (you are here)
 * LeetCode-cn as [@姜广琛](https://leetcode-cn.com/u/jiang-guang-chen/)
 * Twitter as [@GuangchenJ](https://twitter.com/GuangchenJ)
+* Kaggle as [@cocktail98](https://www.kaggle.com/cocktail98)
 * My webset： https://guangchenj.github.io/
 
 **My Resume/CV:**
