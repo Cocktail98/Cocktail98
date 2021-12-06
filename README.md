@@ -1,8 +1,8 @@
-### Hi I'm [@GuangchenJiang](https://github.com/Cocktail98) 👋
+### Hi I'm [@GuangchenJiang](https://github.com/GuangchenJ) 👋
 
 You can find me on:
 
-* GitHub as [@Cocktial98](https://github.com/Cocktail98) (you are here)
+* GitHub as [@GuangchenJ](https://github.com/GuangchenJ) (you are here)
 * LeetCode-cn as [@姜广琛](https://leetcode-cn.com/u/jiang-guang-chen/)
 * Twitter as [@GuangchenJ](https://twitter.com/GuangchenJ)
 * Facebook as [@GuangchenJ](https://www.facebook.com/GuangchenJ)
@@ -11,11 +11,11 @@ My Resume/CV:
 
 * [zh_CN](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cocktail98&layout=compact)](https://github.com/Cocktail98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuangchenJ&layout=compact)](https://github.com/GuangchenJ)
 
 
 <!--
-**Cocktail98/Cocktail98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GuangchenJ/GuangchenJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![info](https://github-readme-stats.vercel.app/api?username=Cocktail98&show_icons=true&count_private=true&hide=prs&theme=vue)
+![info](https://github-readme-stats.vercel.app/api?username=GuangchenJ&show_icons=true&count_private=true&hide=prs&theme=vue)
 -->
