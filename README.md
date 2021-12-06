@@ -2,7 +2,7 @@
 
 **You can find me on:**
 
-* GitHub as [@GuangchenJ](https://github.com/GuangchenJ) (you are here)
+* <i class="fab fa-github-square"></i> GitHub as [@GuangchenJ](https://github.com/GuangchenJ) (you are here)
 * LeetCode-cn as [@姜广琛](https://leetcode-cn.com/u/jiang-guang-chen/)
 * Twitter as [@GuangchenJ](https://twitter.com/GuangchenJ)
 * My webset： https://guangchenj.github.io/
@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![info](https://github-readme-stats.vercel.app/api?username=GuangchenJ&show_icons=true&count_private=true&hide=prs&theme=vue)
 -->
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
