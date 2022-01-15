@@ -8,9 +8,9 @@
 * Kaggle as [@cocktail98](https://www.kaggle.com/cocktail98)
 * My webset： https://guangchenj.github.io/
 
-**My Resume/CV:**
+<!-- **My Resume/CV:** -->
 
-* [zh_CN](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf)
+<!-- * [zh_CN](https://lc-resume.oss-cn-hangzhou.aliyuncs.com/1632538169-iNCzkM-JiangG_CV.pdf) -->
 <!-- * [en-US]() *(To be added)* -->
 
 <!-- My website:  -->
